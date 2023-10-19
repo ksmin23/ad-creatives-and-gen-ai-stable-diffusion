@@ -1,0 +1,7 @@
+diffusers==0.21.4
+accelerate==0.23.0
+opencv-contrib-python==4.8.1.78
+controlnet-aux==0.0.7
+xformers==0.0.22.post4
+opencv-python-headless==4.8.1.78
+transformers==4.34.0
